@@ -3,7 +3,7 @@ title: Jaca.me
 enableToc: false
 ---
 
-A bili smo ono i ono.
+Nemam bijele dlake! Ni na glavi, ni na licu! Samo da ti javim! Grrrrrr!
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
