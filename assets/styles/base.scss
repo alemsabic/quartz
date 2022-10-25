@@ -6,6 +6,15 @@
   --font-mono: 'Fira Code', monospace;
 }
 
+
+html { font-size: 100% }
+p { font-size: 1em }
+
+@media (min-width: 64em) {
+  html {
+    font-size: 112.5%;
+  }
+}
 // typography
 html {
   scroll-behavior: smooth;
